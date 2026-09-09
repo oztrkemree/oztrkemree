@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="195" viewBox="0 0 320 195" role="img" aria-label="Most used languages">
+  <rect width="320" height="195" rx="8" fill="#0d1117"/>
+  <text x="20" y="34" fill="#C41E3A" font-size="18" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Most Used Languages</text>
+  <rect x="20" y="48" width="221.0" height="8" fill="#7355dd"/>
+  <rect x="241" y="48" width="11.2" height="8" fill="#222c37"/>
+  <rect x="252.2" y="48" width="9.4" height="8" fill="#e34c26"/>
+  <rect x="261.6" y="48" width="5.2" height="8" fill="#aace60"/>
+  <rect x="266.8" y="48" width="5.2" height="8" fill="#3572A5"/>
+  <rect x="272" y="48" width="4.2" height="8" fill="#f1e05a"/>
+  <rect x="276.2" y="48" width="3.4" height="8" fill="#3178c6"/>
+  <rect x="279.6" y="48" width="2" height="8" fill="#663399"/>
+  <circle cx="24" cy="78" r="4" fill="#7355dd"/>
+  <text x="36" y="82" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">C# 85.0%</text>
+  <circle cx="24" cy="104" r="4" fill="#222c37"/>
+  <text x="36" y="108" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">ShaderLab 4.3%</text>
+  <circle cx="24" cy="130" r="4" fill="#e34c26"/>
+  <text x="36" y="134" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">HTML 3.6%</text>
+  <circle cx="24" cy="156" r="4" fill="#aace60"/>
+  <text x="36" y="160" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">HLSL 2.0%</text>
+  <circle cx="170" cy="78" r="4" fill="#3572A5"/>
+  <text x="182" y="82" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">Python 2.0%</text>
+  <circle cx="170" cy="104" r="4" fill="#f1e05a"/>
+  <text x="182" y="108" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">JavaScript 1.6%</text>
+  <circle cx="170" cy="130" r="4" fill="#3178c6"/>
+  <text x="182" y="134" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">TypeScript 1.3%</text>
+  <circle cx="170" cy="156" r="4" fill="#663399"/>
+  <text x="182" y="160" fill="#c9d1d9" font-size="12" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">CSS 0.3%</text>
+</svg>
