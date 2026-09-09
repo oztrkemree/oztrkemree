@@ -1,55 +1,46 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=C41E3A&amp;height=140&amp;section=header&amp;text=Emre%20Öztürk&amp;fontSize=42&amp;fontAlignY=35&amp;desc=Co-Founder%20%26%20Client%20Lead%20·%20Ankara&amp;descSize=16&amp;descAlignY=58&amp;fontColor=FFFFFF" alt="Emre Öztürk" />
+</div>
 
-Co-Founder & Client Lead at [Midas Games](https://midas.gs). Based in Ankara.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=C41E3A&center=true&vCenter=true&width=520&height=32&lines=Unity+%C2%B7+C%23+%C2%B7+iOS;Building+from+Ankara" alt="Unity, C Sharp, iOS" />
+</div>
 
-[![Midas](https://img.shields.io/badge/midas.gs-C41E3A?style=flat-square)](https://midas.gs)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oztrkemreus)
-&nbsp;
-[![Email](https://img.shields.io/badge/emre@midas.gs-0B0B0C?style=flat-square&logo=gmail&logoColor=C41E3A)](mailto:emre@midas.gs)
+<p align="center">
+  <a href="https://midas.gs"><img src="https://img.shields.io/badge/midas.gs-C41E3A?style=for-the-badge" alt="midas.gs" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/oztrkemreus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:emre@midas.gs"><img src="https://img.shields.io/badge/emre@midas.gs-0B0B0C?style=for-the-badge&logo=gmail&logoColor=C41E3A" alt="Email" /></a>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="assets/stats.svg" height="195" alt="GitHub stats" />
+  <img src="assets/langs.svg" height="195" alt="Most used languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,apple,firebase,gcp,git&theme=dark" alt="C Sharp Unity Apple Firebase GCP Git" />
+  <img src="assets/streak.svg" width="840" alt="GitHub streak" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=oztrkemree&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=oztrkemree&show_icons=true&title_color=C41E3A&text_color=24292f&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=oztrkemree&show_icons=true&title_color=C41E3A&text_color=c9d1d9&icon_color=C41E3A&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub stats" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oztrkemree&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&exclude_repo=stable-diffusion-webui" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oztrkemree&title_color=C41E3A&text_color=24292f&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&exclude_repo=stable-diffusion-webui" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oztrkemree&title_color=C41E3A&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8&exclude_repo=stable-diffusion-webui" height="180" alt="Most used languages" />
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=oztrkemree&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=oztrkemree&hide_border=true&background=ffffff&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
-  <img src="https://streak-stats.demolab.com?user=oztrkemree&hide_border=true&background=0d1117&ring=C41E3A&fire=C41E3A&currStreakLabel=C41E3A&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub streak" />
-</picture>
-
+  <img src="assets/graph.svg" width="840" alt="Contribution graph" />
 </div>
 
-<br/>
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oztrkemree/oztrkemree/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oztrkemree/oztrkemree/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/oztrkemree/oztrkemree/output/github-snake.svg" alt="contribution snake" />
-</picture>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=C41E3A&amp;height=80&amp;section=footer" alt="" />
 </div>
