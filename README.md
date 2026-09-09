@@ -1,11 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=C41E3A&amp;height=140&amp;section=header&amp;text=Emre%20Öztürk&amp;fontSize=42&amp;fontAlignY=35&amp;desc=Co-Founder%20%26%20Client%20Lead%20·%20Ankara&amp;descSize=16&amp;descAlignY=58&amp;fontColor=FFFFFF" alt="Emre Öztürk" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=C41E3A&center=true&vCenter=true&width=520&height=32&lines=Unity+%C2%B7+C%23+%C2%B7+iOS;Building+from+Ankara" alt="Unity, C Sharp, iOS" />
-</div>
-
 <p align="center">
   <a href="https://midas.gs"><img src="https://img.shields.io/badge/midas.gs-C41E3A?style=for-the-badge" alt="midas.gs" /></a>
   &nbsp;
